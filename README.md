@@ -1,3 +1,3 @@
 # demo-repo
 
-Repo for practicing using Git!
+Repo to practice using Git!
